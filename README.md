@@ -24,8 +24,8 @@ Developer with experience in personal and group projects. I received the educati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>
   <img src="https://tse4.mm.bing.net/th?id=OIP.ZF92CrstrLwevDRkF3HvEQHaHa&pid=Api&P=0" alt="ts" width="30" height="30"/>
-  <img src="	https://tse4.mm.bing.net/th?id=OIP.lBaDzcFSWsjV5ipsyvOC3AHaHa&pid=Api&P=0" alt="redux" width="30" height="30"/>
-  <img src="	https://tse4.mm.bing.net/th?id=OIP.7Nrvvc8F2q3eaffnzHHcmwHaHa&pid=Api&P=0" alt="tailwind" width="30" height="30"/>
+  <img src="https://tse4.mm.bing.net/th?id=OIP.lBaDzcFSWsjV5ipsyvOC3AHaHa&pid=Api&P=0" alt="redux" width="30" height="30"/>
+  <img src="https://tse4.mm.bing.net/th?id=OIP.7Nrvvc8F2q3eaffnzHHcmwHaHa&pid=Api&P=0" alt="tailwind" width="30" height="30"/>
 <P>
 <h4>Data base</h4>
 <p align="center">
