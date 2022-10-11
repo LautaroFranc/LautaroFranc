@@ -32,7 +32,7 @@ Developer with experience in personal and group projects. I received the educati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 <P>
-## My Contact
+# My Contact
 <p>
  - LinkedIn: https://www.linkedin.com/in/lautaro-franco-a1358722b
   <br/>
