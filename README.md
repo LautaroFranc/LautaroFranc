@@ -35,5 +35,6 @@ Developer with experience in personal and group projects. I received the educati
 ## My Contact
 <p>
  - LinkedIn: https://www.linkedin.com/in/lautaro-franco-a1358722b
+  <br/>
  - Email: Hola12@gmail.com
 </p>
