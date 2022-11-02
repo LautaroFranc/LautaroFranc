@@ -1,4 +1,4 @@
-<img src="https://static.vecteezy.com/system/resources/previews/000/678/463/original/programming-doodle-on-blue-background.jpg" alt="banner" width="100%"/>
+
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap" rel="stylesheet">
   
